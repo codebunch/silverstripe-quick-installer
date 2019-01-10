@@ -6,6 +6,10 @@ Automate your SilverStripe install, DB setup, hosts file entry, build in just on
 
 Please note this script is intended for MAMP & Mac users only. Script and file path changes required for Windows/Linux machines.
 
+Windows & XAMPP users can use GIT bash for executing the script. Make sure to update file paths. You may need to add mysql $PATH to GIT bash. You can find reference to do this in the below link
+
+https://stackoverflow.com/questions/11801941/git-bash-on-windows-7-mysqldump-command-is-not-working
+
 ## Requirements
 
 * MAMP
