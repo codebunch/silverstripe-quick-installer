@@ -37,13 +37,13 @@ example -
 
 ## Screenprints
 
-![Screenprints](https://raw.githubusercontent.com/beanjuice/silverstripe-quick-installer/master/quick-installer.png)
+![Screenprints](https://raw.githubusercontent.com/codebunch/silverstripe-quick-installer/master/quick-installer.png)
 
 
-![Screenprints](https://raw.githubusercontent.com/beanjuice/silverstripe-quick-installer/master/quick-installer-02.png)
+![Screenprints](https://raw.githubusercontent.com/codebunch/silverstripe-quick-installer/master/quick-installer-02.png)
 
 
-![Screenprints](https://raw.githubusercontent.com/beanjuice/silverstripe-quick-installer/master/localhost-site.png)
+![Screenprints](https://raw.githubusercontent.com/codebunch/silverstripe-quick-installer/master/localhost-site.png)
 
 
 ## Contributing
